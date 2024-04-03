@@ -3,6 +3,11 @@ code 2
 code 3
 code 4
 code 5
+<<<<<<< HEAD
 code 8
 code 9
 code 10
+=======
+code 6
+code 7
+>>>>>>> master
